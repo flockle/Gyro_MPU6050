@@ -27,5 +27,5 @@ This project reads data from an MPU6050 (GY-521) sensor using an Arduino and pri
 
 Install libraries via **Arduino Library Manager** under **Sketch > Include Library > Manage Libraries…**
 
-## 🧪 Example Serial Output
+
 
